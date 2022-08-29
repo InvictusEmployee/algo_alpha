@@ -1,4 +1,5 @@
-# algo_alpha
+# run the main.py to test the algorithm
+python main.py
 
 ### how to install pipenv on global level if you already have pip
 pip3 install pipenv   ||   brew install pipenv
@@ -12,7 +13,7 @@ python3 -m pipenv
 
 python3 -m pipenv shell
 
-python <filename>
+python main.py
 
 ### how to initiate project with pipenv
 python3 -m pipenv install --python python3.9  //what ever version you have at a time.
